@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Phaser 3 Game Examples written in TypeScript.
+  Phaser 3 Game Examples written in TypeScript.WE
 </p>
 
 <div align="center">
